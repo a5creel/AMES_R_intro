@@ -14,7 +14,7 @@ Then introduce yourself to Git: https://happygitwithr.com/hello-git.html \
 Follow Eli (efenichel), Matt (mdgordo), and this course page, so that I can add you as a collaborator.
 
 Step 3:\
-Create a branch. Go to the Github page for this assignment: https://github.com/Yale-YSE-AMES/R_intro \
+Create a branch. Go to the Github page for this assignment: [https://github.com/Yale-YSE-AMES/R_intro](https://github.com/a5creel/AMES_R_intro) \
 Click on the arrow next to 'master' and in the field where it says 'Find or create a branch' type your last name and press enter. You've created a copy of the original repository that you can edit. 
 
 Step 4:\
